@@ -1,0 +1,15 @@
+class Emp{
+	int id;
+}
+
+class Main{
+	public static void main(String[] args){
+	
+
+	Emp raj = new Emp();
+	raj.id = 10;
+	System.out.println(raj.id);
+
+	}
+
+}
